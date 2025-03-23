@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Dan</h1>
-<h3 align="center">A passionate backend developer from Spain</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="600" height="300"/>
+</div>
 
-## About Me
+# <div align="center">👨‍💻 Dan | Backend Developer 🚀</div>
+
+## ✨ About Me
 I'm a software developer with experience since 2020. I've contributed to significant projects using cutting-edge technologies and I'm passionate about continuous learning.
 
 - 🔭 I specialize in microservices architecture and distributed systems
